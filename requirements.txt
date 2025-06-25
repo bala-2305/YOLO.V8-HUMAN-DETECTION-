@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+streamlit
+mediapipe
+numpy
+torch
+tensorflow
